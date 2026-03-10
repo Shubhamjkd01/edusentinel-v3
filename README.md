@@ -352,5 +352,6 @@ MIT License — feel free to use, modify, and distribute.
 
 Built with ❤️ for Indian universities  
 **EduSentinel V3** — *Predict. Prevent. Protect.*
+*Shubham raj*
 
 </div>
